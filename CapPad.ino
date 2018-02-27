@@ -1,3 +1,4 @@
+// Use any 2 pins you like - this is NOT I2C ;-)
 #define SCL_PIN 8
 #define SDO_PIN 9
 byte Key;
